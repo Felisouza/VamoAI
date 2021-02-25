@@ -65,6 +65,6 @@ else:
         f'Você não acertou nenhuma questão, mas \n'
         f'não desanime! Vamos aprender mais sobre a Irmã Mary Kenneth Keller \n \n ', texto
         )
-    
+    print('Mais um teste')
 
 
