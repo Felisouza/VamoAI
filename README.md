@@ -1,17 +1,8 @@
-# Vamo_ai
+# VamoAI
 
-…or create a new repository on the command line
+<center>
 
-echo "# Vamo_ai" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Felisouza/Vamo_ai.git
-git push -u origin main
+![Capa](capa.jpeg)
+</center>
 
-…or push an existing repository from the command line
-
-git remote add origin https://github.com/Felisouza/Vamo_ai.git
-git branch -M main
-git push -u origin main
+Repositório com todos os exercícios do primeiro módulo da formação de cientista de dados, a turma VamoAI. Curso oferecido pela Resilia em parceria com a Ifood.
