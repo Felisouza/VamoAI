@@ -1,10 +1,10 @@
 # VamoAI  
 
-<p align="center">  
+<center>  
 
 <img src = \C:\Users\feh_s\Google%20Drive\7_Resilia\Vamo_ai\capa.jpg>
 
-</p>
+</center>
 
 
 
