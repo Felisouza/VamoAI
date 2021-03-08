@@ -2,8 +2,8 @@
 
 <center>
 
-![Capa](capa.jpeg)  
+<img src = "capa.jpeg"/>
 
 </center>
 
-Repositório com todos os exercícios do primeiro módulo da formação de cientista de dados, a turma VamoAI. Curso oferecido pela Resilia em parceria com a Ifood.
+Repositório com todos os exercícios da formação de cientista de dados, da turma VamoAI. Curso oferecido pela Resilia em parceria com a Ifood.
