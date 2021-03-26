@@ -14,7 +14,20 @@ class Automovel:
             f'Km rodado: {self.quilometragem} '
         )
 
+class Carro(Automovel):
+    pass
+    #Nesses casos dá para fazer a herança com o super ou sem ele
 
-auto = Automovel('Carro', 'Uno com escada', 1988, 5000000000)
+class Moto(Automovel):
+    def __init__(self, tipo, modelo, ano, quilometragem):
+        super().__init__(tipo, modelo, ano, quilometragem)
+    pass
+    #Aqui fiz com o super para testar
 
-auto.exibir()
+
+#carro = Carro('Carro', 'Uno com escada', 1988, 5000000000)
+
+#carro.exibir()
+
+moto = Moto('Moto', 'CB-500', 2020, 12000)
+#moto.exibir()
