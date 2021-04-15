@@ -29,6 +29,14 @@ class Entregador(Pessoa):
             f'Nota: {self.nota}'
         )
 
-entregador = Entregador('Felipe', '12345678', '123456', '1234565', 'Moto', '5')
+    def recebe_pedido():
+        pass
+
+    def entrega_pedido():
+        pass
+
+    
+
+entregador = Entregador('Felipe', '12345678', '123456', '1234565', 'Moto')
 
 entregador.exibir()
